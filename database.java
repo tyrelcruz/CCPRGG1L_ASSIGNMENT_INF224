@@ -30,7 +30,6 @@ public class database {
         final String myLastName = "Cruz";
         final String myIGN = "STLLR";
         final String myTeam = "Fuego";
-;
         System.out.println(myAge);
         System.out.println(myFavoritenumber);
         System.out.println(myGradeInClass);
