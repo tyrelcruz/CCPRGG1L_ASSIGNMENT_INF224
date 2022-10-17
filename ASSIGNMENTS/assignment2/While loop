@@ -3,9 +3,9 @@ public class first {
         
         //1. Use a while loop to print your FIRSTNAME three times.
 
-        int count = 3;
+        int count = 0;
 
-        while (count != 0) {
+        while (count != 3) {
             System.out.println("TYREL");
         count --;
 
