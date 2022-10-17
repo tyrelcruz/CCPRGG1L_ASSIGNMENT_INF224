@@ -3,11 +3,11 @@ public class second {
 
           //2. Use a do-while loop to print your MIDDLENAME four times.
 
-          int count = 4; 
+          int count = 0; 
           do {
-            System.out.println("CRUZ");
-            count --;
-        }   while (count !=0);
+            System.out.println("PANGILINAN");
+            count ++;
+        }   while (count !=4);
 
     }
 }
