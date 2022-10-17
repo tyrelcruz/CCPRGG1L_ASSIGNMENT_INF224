@@ -7,7 +7,7 @@ public class first {
 
         while (count != 3) {
             System.out.println("TYREL");
-        count --;
+        count ++;
 
         }
         }
