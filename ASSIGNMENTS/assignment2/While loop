@@ -1,0 +1,14 @@
+public class first {
+    public static void main(String[] args) throws Exception {
+        
+        //1. Use a while loop to print your FIRSTNAME three times.
+
+        int count = 3;
+
+        while (count != 0) {
+            System.out.println(" TYREL");
+
+        }
+        }
+    }
+
