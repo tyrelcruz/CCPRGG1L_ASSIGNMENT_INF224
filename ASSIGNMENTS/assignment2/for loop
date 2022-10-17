@@ -1,0 +1,10 @@
+public class third {
+    public static void main(String[] args) throws Exception {
+
+        //3. Use a for loop to print your SURNAME five times.
+        for (int count = 0; count != 5; count++) {
+            System.out.println("CRUZ");
+            
+        }
+}
+}
