@@ -38,7 +38,7 @@ public class assignment2 {
         //L
 
         //char Arrray
-        String[] firstname = {"T", "Y", "R", "E", "L"};
+        char[] firstname = {"T", "Y", "R", "E", "L"};
             System.out.print(firstname[0]);
             System.out.print(firstname[1]);
             System.out.print(firstname[2]);
@@ -56,7 +56,7 @@ public class assignment2 {
             for (int r = 0; r != 1; r++);
 
         //char Arrray
-        String[] firstname2 = {"T", "Y", "R", "E", "L"};
+        char[] firstname2 = {"T", "Y", "R", "E", "L"};
             System.out.print(firstname2[4]);
             System.out.print(firstname2[3]);
             System.out.print(firstname2[2]);
