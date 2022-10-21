@@ -39,28 +39,24 @@ public class assignment2 {
 
         //char Arrray
         char[] firstname = {'T', 'Y', 'R', 'E', 'L'};
-            System.out.print(firstname[0]);
-            System.out.print(firstname[1]);
-            System.out.print(firstname[2]);
-            System.out.print(firstname[3]);
-            System.out.println(firstname[4]);
 
-        //For loop
-        for (int c = 0; c != 1; c++);
+            //For loop
+            for (int h = 0; h < firstname.length; h++){
+            System.out.print(firstname[h]);
+            }
 
+
+            System.out.println("");
 //==========================================================================================================================================================================
 
         //5. Use a for loop to print the char array of your FIRSTNAME in REVERSE order (example: REZILE)
 
-        //For loop
-            for (int r = 0; r != 1; r++);
+        //For loop Reverse
+        char[] reverse = {'T', 'Y', 'R', 'E', 'L'};
 
-        //char Arrray
-        char[] firstname2 = {'T', 'Y', 'R', 'E', 'L'};
-            System.out.print(firstname2[4]);
-            System.out.print(firstname2[3]);
-            System.out.print(firstname2[2]);
-            System.out.print(firstname2[1]);
-            System.out.print(firstname2[0]);
+            for (int r = 4; r >= 0; r--){
+            System.out.print(reverse[r]);
+        }
     }  
 }
+
